@@ -1,1 +1,1 @@
-Este código implementa un juego de Arkanoid en JavaScript utilizando el elemento canvas de HTML5. El juego incluye una pelota, una paleta y ladrillos que el jugador debe destruir golpeando la pelota con la paleta
+Este código implementa un juego de Arkanoid en JavaScript utilizando el elemento canvas de HTML5. El juego incluye una pelota, una paleta y ladrillos que el jugador debe destruir los ladrillos golpeados por la pelota.
